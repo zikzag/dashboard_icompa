@@ -1,5 +1,5 @@
 //The MIT License (MIT)
-//Copyright (c) 2016 BODNARCHUK
+//Copyright (c) 2016
 
 /*$('.edit_indicator').on('click', function() {
     var indicator_name2 = $(this).closest('tr').find('td#nom_indicateur').text();
